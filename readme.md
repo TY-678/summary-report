@@ -27,7 +27,8 @@
 
 ## 檔案結構
 
-- `data_processing.py`：包含 GUI 和資料處理邏輯的主要 Python 腳本。
+- `summary_report.py`：不需透過Python編譯器可直接執行的應用程式 。
+- `summary_report.py`：包含 GUI 和資料處理邏輯的主要 Python 腳本。
 - `README.md`：說明檔案，解釋程式的使用方法和目的。
 
 ## 程式運作原理
