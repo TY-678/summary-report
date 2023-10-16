@@ -19,7 +19,7 @@
 ## 使用方式
 
 1. 複製 專案內容到您的電腦中。
-2. 執行 summary_report.exe執行檔或是 Python 腳本 `summary_report.py`。
+2. 執行 summary_report.exe 執行檔或是 Python 腳本 `summary_report.py`。
 3. 在提示時輸入日期，格式為 `YYYYMMDD`。
 4. 使用提供的選擇按鈕選擇輸出格式（CSV、JSON 或 TXT）。
 5. 點擊“計算”按鈕以處理資料。
@@ -27,7 +27,7 @@
 
 ## 檔案結構
 
-- `summary_report.py`：不需透過Python編譯器可直接執行的應用程式 。
+- `summary_report.exe`：不需透過Python編譯器可直接執行的應用程式 。
 - `summary_report.py`：包含 GUI 和資料處理邏輯的主要 Python 腳本。
 - `README.md`：說明檔案，解釋程式的使用方法和目的。
 
