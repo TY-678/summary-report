@@ -7,6 +7,8 @@
 - **最後更新日期：** 2023-10-16
 
 這個 Python 程式允許使用者根據特定日期，從指定的資料夾中處理資料，並根據使用者的選擇，將結果以 CSV、JSON 或 TXT 格式輸出。
+
+
 ![image](https://github.com/TY-678/summary-report/blob/e6956df5d23450f00bc2fba3aa1df1ab63d9153f/summary_report_gui.png)
 
 ## 前置需求
